@@ -15,7 +15,7 @@ st.markdown("""
 👋 **How to Use the Optimizer**
             
 1. 📊 **Compare**  
-   The app will show where you over- or under-spent compared to your ideal plan.  
+   The app will show where you over or under spent compared to your ideal plan.  
    You'll also see charts and summaries to help you improve your budgeting.
 
 2. 📄 **Actual Budget**  
@@ -26,9 +26,9 @@ st.markdown("""
 
 ---
 
-🔒 *No data is stored — everything is processed locally in your browser.*
+🔒 *No data is stored, everything is processed locally in your browser.*
 
-✅ *Make sure your Excel files are well-formatted (Category + Proportion or Amount).
+✅ *Make sure your Excel files are well formatted (Category + Proportion or Amount).
    Check the following excel sheets for refrence.*
 
 </div>
