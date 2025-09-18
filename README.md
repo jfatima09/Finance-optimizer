@@ -8,7 +8,6 @@ Welcome to the **Budget Optimizer**, an interactive Streamlit application design
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
-- [Sample Results & Visualizations](#sample-results--visualizations)
 - [Author](#author)
 - [References](#references)
 
@@ -26,7 +25,7 @@ This application offers a streamlined way to **upload, compare, and analyze idea
 - **File Uploader:** Drag-and-drop interface for uploading two budget files.
 - **Automated Comparison:** Merges categories for alignment and analysis.
 - **Interactive Tables:** View ideal vs. actual distribution side-by-side.
-- **Bar Chart Visualization:** Instantly shows over- and under-spending by category.
+- **Bar Chart Visualization:** Instantly shows over and under spending by category.
 - **Summary Metrics:** Total planned vs. actual amounts and surplus/deficit calculation.
 - **Modern UI:** Intuitive, clean design for easy interaction.
 - **Modular Structure:** Each app function is contained in a dedicated script for easy extension and maintenance.
@@ -67,18 +66,9 @@ Two demo files are also available on the main page.
 5. Review the output, tables, and interactive charts for quick insights.
 
 
-## Sample Results & Visualizations
-
-- Side-by-side tables showing *Ideal* vs. *Actual* allocations for every category.
-- **Bar charts** indicating which categories are over or under budget.
-- Calculation of "Extra Amount Used" and other key metrics.
-
-*(Screenshots or output samples can be placed here as visuals)*
-
-
 ## Author
 
-- **Lead Developer:** [Jozy Fatima]
+- **Lead Developer:** Jozy Fatima
 
 Special thanks to the open-source community for Streamlit and supporting libraries that make rapid application development accessible.
 
